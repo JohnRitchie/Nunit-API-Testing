@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Nunit-API-Testing
+namespace NunitAPITesting
 {
     [AllureNUnit]
     [TestFixture]
